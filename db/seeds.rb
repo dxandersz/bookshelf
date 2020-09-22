@@ -6,7 +6,7 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-User.create(username: 'roseannebarr420', password: 'eatacock', full_name: 'Mary Lynn Ritch')
+User.create(username: 'roseannebarr420', password: 'blahblah', full_name: 'Mary Lynn Ritch')
 User.create(username: 'xxbobsagat69', password: 'buoybuoy', full_name: 'David Anderson')
 
 Book.create(user_id: 1, title: 'The Autobiography of Gucci Mane', author: 'Neil Martinez Belkin', page_count: 286, genre: 'biography')
